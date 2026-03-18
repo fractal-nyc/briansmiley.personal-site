@@ -60,7 +60,7 @@ export const reactProjects: ProjectType[] = [
     title: "Calibrated",
     thumbnail: "thumbnails/calibrated.png",
     blurb:
-      "A zero-friction estimation tool for testing calibration. Create questions and let users on the website or a Discord channel make guesses.",
+      "A zero-friction estimation tool for testing calibration. Create questions with numerical answers and let users on the website or a Discord channel make guesses.",
     url: "https://calibrated.live",
     github: "https://github.com/briansmiley/calibrated",
     icons: ["claude", "discord"],
